@@ -6,12 +6,10 @@ const buttonStyle = {
   marginRight: '15px',
   border: 0,
   lineHeight: 2.5,
-  padding: '20px',
-  fontSize: '1rem',
+  padding: '10px',
+  fontSize: '2rem',
   textAlign: 'center',
-  color: '#031fab',
-  textShadow: '1px 5px 5px #000',
-  borderRadius: '35px',
+  color: 'fff',
   backgroundColor: 'rgba(fff00)',
 };
 
