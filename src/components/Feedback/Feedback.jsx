@@ -3,7 +3,7 @@ import PropTypes from 'prop-types';
 import { nanoid } from 'nanoid';
 
 const buttonStyle = {
-  marginRight: '15px',
+  marginRight: '20px',
   border: 0,
   lineHeight: 2.5,
   padding: '10px',
